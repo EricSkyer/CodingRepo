@@ -1,0 +1,14 @@
+D:\GitHub\CodingRepo\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.exe
+D:\GitHub\CodingRepo\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.deps.json
+D:\GitHub\CodingRepo\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.runtimeconfig.json
+D:\GitHub\CodingRepo\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.dll
+D:\GitHub\CodingRepo\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.pdb
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.AssemblyInfoInputs.cache
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.AssemblyInfo.cs
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.dll
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\refint\TestConsoleApp.dll
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.pdb
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.genruntimeconfig.cache
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\ref\TestConsoleApp.dll
