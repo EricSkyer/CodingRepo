@@ -12,3 +12,4 @@ D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\refint\TestConsoleApp.dll
 D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.pdb
 D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.genruntimeconfig.cache
 D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\ref\TestConsoleApp.dll
+D:\GitHub\CodingRepo\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.sourcelink.json

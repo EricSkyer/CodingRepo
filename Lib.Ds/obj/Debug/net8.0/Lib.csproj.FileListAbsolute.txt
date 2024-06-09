@@ -1,0 +1,12 @@
+D:\GitHub\CodingRepo\Lib.Ds\bin\Debug\net8.0\Lib.deps.json
+D:\GitHub\CodingRepo\Lib.Ds\bin\Debug\net8.0\Lib.dll
+D:\GitHub\CodingRepo\Lib.Ds\bin\Debug\net8.0\Lib.pdb
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.AssemblyInfoInputs.cache
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.AssemblyInfo.cs
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.csproj.CoreCompileInputs.cache
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.sourcelink.json
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.dll
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\refint\Lib.dll
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\Lib.pdb
+D:\GitHub\CodingRepo\Lib.Ds\obj\Debug\net8.0\ref\Lib.dll

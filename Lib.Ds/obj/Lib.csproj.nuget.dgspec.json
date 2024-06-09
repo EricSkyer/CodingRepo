@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\CodingRepo\\TestConsoleApp\\TestConsoleApp.csproj": {}
+    "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\CodingRepo\\TestConsoleApp\\TestConsoleApp.csproj": {
+    "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\CodingRepo\\TestConsoleApp\\TestConsoleApp.csproj",
-        "projectName": "TestConsoleApp",
-        "projectPath": "D:\\GitHub\\CodingRepo\\TestConsoleApp\\TestConsoleApp.csproj",
+        "projectUniqueName": "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj",
+        "projectName": "Lib",
+        "projectPath": "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj",
         "packagesPath": "C:\\Users\\rongc\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\CodingRepo\\TestConsoleApp\\obj\\",
+        "outputPath": "d:\\GitHub\\CodingRepo\\Lib.Ds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rongc\\AppData\\Roaming\\NuGet\\NuGet.Config"
