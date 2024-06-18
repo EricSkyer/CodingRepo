@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj": {}
+    "D:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
+    "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj",
+        "projectUniqueName": "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj",
+        "projectPath": "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj",
         "packagesPath": "C:\\Users\\rongc\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\CodingRepo\\Lib.Ds\\obj\\",
+        "outputPath": "D:\\GitHub\\CodingRepo\\Lib.Ds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rongc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "d:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj": {
+    "D:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
+        "projectUniqueName": "D:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
         "projectName": "Lib.Test",
-        "projectPath": "d:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
+        "projectPath": "D:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
         "packagesPath": "C:\\Users\\rongc\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\CodingRepo\\Lib.Test\\obj\\",
+        "outputPath": "D:\\GitHub\\CodingRepo\\Lib.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rongc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
-                "projectPath": "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj"
+              "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
+                "projectPath": "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj"
               }
             }
           }
