@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
+      "projectUniqueName": "d:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
       "projectName": "Lib.Test",
-      "projectPath": "D:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
+      "projectPath": "d:\\GitHub\\CodingRepo\\Lib.Test\\Lib.Test.csproj",
       "packagesPath": "C:\\Users\\rongc\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CodingRepo\\Lib.Test\\obj\\",
+      "outputPath": "d:\\GitHub\\CodingRepo\\Lib.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rongc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1037,8 +1037,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
-              "projectPath": "D:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj"
+            "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj": {
+              "projectPath": "d:\\GitHub\\CodingRepo\\Lib.Ds\\Lib.csproj"
             }
           }
         }
