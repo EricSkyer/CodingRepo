@@ -102,9 +102,4 @@ public class FindSum
         memo[sum] = shortestCombination;
         return shortestCombination;
     }
-
-    public static string Print(int[] a)
-    {
-        return a == null ? null : string.Join(',', a);
-    }
 }

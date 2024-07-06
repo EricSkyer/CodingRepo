@@ -38,18 +38,18 @@ public class FindSumTest
     [TestMethod]
     public void BestSumTest()
     {
-        Assert.AreEqual("7", FindSum.Print(FindSum.BestSum(7, [5, 3, 4, 7])));
-        Assert.AreEqual("5,3", FindSum.Print(FindSum.BestSum(8, [2, 3, 5])));
-        Assert.AreEqual("4,4", FindSum.Print(FindSum.BestSum(8, [1, 4, 5])));
+        Assert.AreEqual("7", Helper.Print(FindSum.BestSum(7, [5, 3, 4, 7])));
+        Assert.AreEqual("5,3", Helper.Print(FindSum.BestSum(8, [2, 3, 5])));
+        Assert.AreEqual("4,4", Helper.Print(FindSum.BestSum(8, [1, 4, 5])));
         //Assert.AreEqual("25,25,25,25", FindSum.Print(FindSum.BestSum(100, [1, 2, 5, 25])));//slow
     }
 
     [TestMethod]
     public void BestSumWithMemoTest()
     {
-        Assert.AreEqual("7", FindSum.Print(FindSum.BestSumWithMemo(7, [5, 3, 4, 7], new Dictionary<int, int[]>())));
-         Assert.AreEqual("5,3", FindSum.Print(FindSum.BestSumWithMemo(8, [2, 3, 5], new Dictionary<int, int[]>())));
-        Assert.AreEqual("4,4", FindSum.Print(FindSum.BestSumWithMemo(8, [1, 4, 5], new Dictionary<int, int[]>())));
-        Assert.AreEqual("25,25,25,25", FindSum.Print(FindSum.BestSumWithMemo(100, [1, 2, 5, 25],new Dictionary<int, int[]>())));
+        Assert.AreEqual("7", Helper.Print(FindSum.BestSumWithMemo(7, [5, 3, 4, 7], new Dictionary<int, int[]>())));
+         Assert.AreEqual("5,3", Helper.Print(FindSum.BestSumWithMemo(8, [2, 3, 5], new Dictionary<int, int[]>())));
+        Assert.AreEqual("4,4", Helper.Print(FindSum.BestSumWithMemo(8, [1, 4, 5], new Dictionary<int, int[]>())));
+        Assert.AreEqual("25,25,25,25", Helper.Print(FindSum.BestSumWithMemo(100, [1, 2, 5, 25],new Dictionary<int, int[]>())));
     }
 }
